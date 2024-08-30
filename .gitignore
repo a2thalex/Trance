@@ -1,7 +1,14 @@
+# Virtual environment
 beatmaker_env/
+
+# Python cache files
 __pycache__/
 *.pyc
+
+# IDE-specific files
 .vscode/
 .idea/
+
+# OS-specific files
 .DS_Store
 Thumbs.db
